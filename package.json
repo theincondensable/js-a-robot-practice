@@ -1,0 +1,11 @@
+{
+  "name": "ch07-a-robot",
+  "version": "0.0.1",
+  "description": "Eloquent JS Chapter 07 practice - A Robot",
+  "main": "index.html",
+  "author": "Abbas",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
